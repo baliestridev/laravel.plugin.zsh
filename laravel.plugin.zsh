@@ -1,4 +1,4 @@
-# Copyright (c) Bruno Sales <me@baliestri.dev>. Licensed under the MIT License.
+# Copyright (c) Bruno Sales <org@baliestri.dev>. Licensed under the MIT License.
 # See the LICENSE file in the project root for full license information.
 
 function __find_laravel_root() {
