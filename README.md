@@ -19,7 +19,7 @@ Plugin for skipping the `php` command when running artisan commands and `./sail`
 #### [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ```shell
-git clone https://github.com/empresslabs/laravel.plugin.zsh.git $ZSH_CUSTOM/plugins/laravel
+git clone https://github.com/baliestridev/laravel.plugin.zsh.git $ZSH_CUSTOM/plugins/laravel
 ```
 
 ```shell
@@ -30,25 +30,25 @@ plugins=(... laravel)
 #### [zinit](https://github.com/zdharma-continuum/zinit)
 
 ```shell
-zinit light empresslabs/laravel.plugin.zsh
+zinit light baliestridev/laravel.plugin.zsh
 ```
 
 #### [zi](https://github.com/z-shell/zi)
 
 ```shell
-zi light empresslabs/laravel.plugin.zsh
+zi light baliestridev/laravel.plugin.zsh
 ```
 
 #### [zgenom](https://github.com/jandamm/zgenom)
 
 ```shell
-zgenom load empresslabs/laravel.plugin.zsh
+zgenom load baliestridev/laravel.plugin.zsh
 ```
 
 #### [zplug](https://github.com/zplug/zplug)
 
 ```shell
-zplug empresslabs/laravel.plugin.zsh
+zplug baliestridev/laravel.plugin.zsh
 ```
 
 ## Usage
