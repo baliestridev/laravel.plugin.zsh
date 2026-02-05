@@ -1,5 +1,21 @@
 # Changelog
 
+
+## [1.1.0](https://github.com/baliestridev/laravel.plugin.zsh/compare/v1.0.0..v1.1.0) - 2026-02-05
+
+### 📚 Documentation
+
+- Add cliff.toml and CHANGELOG.md - ([d690626](https://github.com/baliestridev/laravel.plugin.zsh/commit/d6906262d1853829bfea4e8764c0898a17b94a0d))
+- Update license year and owner email - ([8e0553a](https://github.com/baliestridev/laravel.plugin.zsh/commit/8e0553af940c953254f7c0b50e582d354a71fb51))
+
+### ⚙️ Miscellaneous Tasks
+
+- Replace old workflow - ([60df549](https://github.com/baliestridev/laravel.plugin.zsh/commit/60df5492321335ac70dcaae27d5b7d1948059566))
+- Move project to new organization - ([fcfb73b](https://github.com/baliestridev/laravel.plugin.zsh/commit/fcfb73b36c081e69077e1f7d51b7878e956edea2))
+
+
+# Changelog
+
 ## [1.0.0](https://github.com/baliestridev/laravel.plugin.zsh/compare/v2023.02.04..v1.0.0) - 2024-12-26
 
 ### ⚙️ Miscellaneous Tasks
